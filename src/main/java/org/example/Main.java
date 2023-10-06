@@ -303,12 +303,4 @@ public class Main {
             throw new RuntimeException(e);
         }
     }
-//        File championshipFormulaOnefile = new File("src\\main\\championshipFormulaOnefile.txt");
-//        try {
-//            if (championshipFormulaOnefile.createNewFile()) {
-//                System.out.println("The file is created.");
-//            }
-//        } catch (IOException e) {
-//            throw new RuntimeException(e);
-//        }
 }
